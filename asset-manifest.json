@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-router-example/static/css/main.10e0b188.css",
-    "main.js": "/react-router-example/static/js/main.98b01295.js",
+    "main.js": "/react-router-example/static/js/main.196075b5.js",
     "static/js/787.b7fd004f.chunk.js": "/react-router-example/static/js/787.b7fd004f.chunk.js",
     "static/media/aerial-view-business-team.png": "/react-router-example/static/media/aerial-view-business-team.3e18c5989333754ad60d.png",
     "static/media/cherful-positive-young-colleagues-using-laptop-computer.png": "/react-router-example/static/media/cherful-positive-young-colleagues-using-laptop-computer.01a3ddfc10c4758c09b9.png",
     "index.html": "/react-router-example/index.html",
     "main.10e0b188.css.map": "/react-router-example/static/css/main.10e0b188.css.map",
-    "main.98b01295.js.map": "/react-router-example/static/js/main.98b01295.js.map",
+    "main.196075b5.js.map": "/react-router-example/static/js/main.196075b5.js.map",
     "787.b7fd004f.chunk.js.map": "/react-router-example/static/js/787.b7fd004f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10e0b188.css",
-    "static/js/main.98b01295.js"
+    "static/js/main.196075b5.js"
   ]
 }
