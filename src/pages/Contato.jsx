@@ -9,7 +9,7 @@ function Contato() {
         <h4 style={{ padding: "20px" }}>
           Phone Number:
           <a href="tel:1-764-060-5149 x25483" style={{ color: "#6a92be" }}>
-            1-764-060-5149 x25483
+            1-764-060-5149 x25444
           </a>
         </h4>
         <h4 style={{ padding: "20px" }}>
